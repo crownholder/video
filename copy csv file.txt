@@ -1,0 +1,11 @@
+
+COPY reference_list(genre)
+FROM '/home/ubuntu/labwork/data-files/genres.csv'
+WITH HEADER=TRUE;
+
+
+COPY movies_by_genre(genre, year, title, synopsis, duration, thumbnail)
+FROM '/home/ubuntu/labwork/data-files/movies_by_genre.csv'
+WITH HEADER=TRUE;
+
+

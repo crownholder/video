@@ -1,0 +1,10 @@
+ CREATE TABLE IF NOT EXISTS movies_by_genre (
+    genre  TEXT,
+    year     INT,
+    title      TEXT,
+    synopsis   TEXT,
+    duration   INT,
+    thumbnail   TEXT,
+    PRIMARY KEY ((genre), year, title)
+)WITH CLUSTERING ORDER BY (year DESC, title ASC);
+  

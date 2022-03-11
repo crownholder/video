@@ -1,0 +1,4 @@
+ CREATE TABLE IF NOT EXISTS reference_list (
+    genre  TEXT,
+    PRIMARY KEY (genre)
+);

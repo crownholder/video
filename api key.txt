@@ -1,0 +1,22 @@
+https://$58f5b00f-3e88-4adb-88e4-0628ba77bb37-1-$us-east1.apps.astra.datastax.com/api/rest/v2/schemas/keyspaces/${video_library}/tables \
+
+
+
+
+
+
+
+
+
+Client ID
+rmWSDCJxzKEyLpNwLmwgToCF
+
+
+Token
+
+AstraCS:rmWSDCJxzKEyLpNwLmwgToCF:baa3a3564a67e920d7384ed363108c37fa1b1e4997397698e63971b50c1f0d96
+
+
+Client Secret
+
+B3jJFn8-i_tZtZhW9xQa4stvQf6RjtnkkIJT5UR17fylMjarb2uiyO0vTRFxk7hk9GcrwatsEFTnH1lwnqtpNTDzE0ws1o+w1RNLxj582RNjiRC84QICTR6.lRoJXXK.

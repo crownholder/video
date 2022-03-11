@@ -1,0 +1,5 @@
+tar -xf dse-6.0.0-bin.tar.gz
+
+mv dse-6.0.0 node
+
+labwork/config_node
